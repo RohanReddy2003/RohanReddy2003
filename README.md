@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Rohan</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-- 🔭 I’m currently working on **Medical Symptom Predictor**
+- 🔭 I’m currently working on **NewsApp**
 
 - 🌱 I’m currently learning **Django,Python**
 
