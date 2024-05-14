@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 💬 Ask me about **Python,Django,HTML,CSS,React**
+- 💬 Ask me about **Python,Django,HTML,CSS,Machine Learning,Data Science**
 
 - 📫 How to reach me **bobbitisairohan@gmail.com**
 
