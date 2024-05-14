@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
+- 👨‍💻 Checkout my Portfolio [https://rohan-portfolio-alpha.vercel.app/](https://rohan-portfolio-alpha.vercel.app/)
+
 - 💬 Ask me about **Python,Django,HTML,CSS,Machine Learning,Data Science**
 
 - 📫 How to reach me **bobbitisairohan@gmail.com**
