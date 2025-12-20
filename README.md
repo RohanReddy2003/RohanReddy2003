@@ -1,15 +1,13 @@
 <h1 align="center">Hello 👋, I'm Rohan</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
+<h3 align="center">A passionate Java Full stack developer from India</h3>
 
-- 🔭 I’m currently working on **Portfolio**
-
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **Gen AI**
 
 - 👨‍💻 Checkout my Portfolio [https://rohan-portfolio-alpha.vercel.app/](https://rohan-portfolio-alpha.vercel.app/)
 
-- 💬 Ask me about **Python,Django,HTML,CSS,Machine Learning,Data Science**
+- 💬 Ask me about **Java,Spring Boot,React,Python,Django,HTML,CSS,Machine Learning,Data Science**
 
-- 📫 How to reach me **bobbitisairohan@gmail.com**
+- 📫 How to reach me **sairohanreddy2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
